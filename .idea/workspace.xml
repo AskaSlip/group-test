@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="42aa747c-dbb5-4264-a4c9-eeb0c130bae6" name="Changes" comment="create a main file&#10;add first text and commit" />
+    <list default="true" id="42aa747c-dbb5-4264-a4c9-eeb0c130bae6" name="Changes" comment="add the last sentence to the main file">
+      <change afterPath="$PROJECT_DIR$/Anka.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -25,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "AnkaBranch",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -43,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711529127881</updated>
-      <workItem from="1711529128867" duration="331000" />
+      <workItem from="1711529128867" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="create a main file&#10;add first text and commit">
       <option name="closed" value="true" />
@@ -53,7 +64,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711529429731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add more text">
+      <option name="closed" value="true" />
+      <created>1711529564936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711529564936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add the last sentence to the main file">
+      <option name="closed" value="true" />
+      <created>1711529666376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711529666376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create a main file&#10;add first text and commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a main file&#10;add first text and commit" />
+    <MESSAGE value="add more text" />
+    <MESSAGE value="add the last sentence to the main file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the last sentence to the main file" />
   </component>
 </project>
