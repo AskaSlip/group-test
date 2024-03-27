@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42aa747c-dbb5-4264-a4c9-eeb0c130bae6" name="Changes" comment="create a main file&#10;add first text and commit" />
+    <list default="true" id="42aa747c-dbb5-4264-a4c9-eeb0c130bae6" name="Changes" comment="create a main file&#10;add first text and commit">
+      <change afterPath="$PROJECT_DIR$/Olya.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2eGRrYsRUuJYMfuhxglKW6W5RSd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -25,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Olya",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -44,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711529127881</updated>
       <workItem from="1711529128867" duration="331000" />
+      <workItem from="1711556191671" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="create a main file&#10;add first text and commit">
       <option name="closed" value="true" />
